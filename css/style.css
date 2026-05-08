@@ -105,6 +105,10 @@ button {
   text-align: center;
 }
 
+.merch>button{
+margin: 20px;
+}
+
 .merch-list {
   display: flex;
   justify-content: center;
